@@ -1,0 +1,15 @@
+C:\Users\puppy\source\repos\20220727_test\bin\Debug\net6.0\20220727_test.exe
+C:\Users\puppy\source\repos\20220727_test\bin\Debug\net6.0\20220727_test.deps.json
+C:\Users\puppy\source\repos\20220727_test\bin\Debug\net6.0\20220727_test.runtimeconfig.json
+C:\Users\puppy\source\repos\20220727_test\bin\Debug\net6.0\20220727_test.dll
+C:\Users\puppy\source\repos\20220727_test\bin\Debug\net6.0\20220727_test.pdb
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\20220727_test.csproj.AssemblyReference.cache
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\20220727_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\20220727_test.AssemblyInfoInputs.cache
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\20220727_test.AssemblyInfo.cs
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\20220727_test.csproj.CoreCompileInputs.cache
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\20220727_test.dll
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\refint\20220727_test.dll
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\20220727_test.pdb
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\20220727_test.genruntimeconfig.cache
+C:\Users\puppy\source\repos\20220727_test\obj\Debug\net6.0\ref\20220727_test.dll
